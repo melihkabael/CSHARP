@@ -1,0 +1,15 @@
+D:\Dev\CSharp\Console\SAYISALLOTO\bin\Debug\net6.0\SAYISALLOTO.exe
+D:\Dev\CSharp\Console\SAYISALLOTO\bin\Debug\net6.0\SAYISALLOTO.deps.json
+D:\Dev\CSharp\Console\SAYISALLOTO\bin\Debug\net6.0\SAYISALLOTO.runtimeconfig.json
+D:\Dev\CSharp\Console\SAYISALLOTO\bin\Debug\net6.0\SAYISALLOTO.dll
+D:\Dev\CSharp\Console\SAYISALLOTO\bin\Debug\net6.0\SAYISALLOTO.pdb
+D:\Dev\CSharp\Console\SAYISALLOTO\obj\Debug\net6.0\SAYISALLOTO.csproj.AssemblyReference.cache
+D:\Dev\CSharp\Console\SAYISALLOTO\obj\Debug\net6.0\SAYISALLOTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\CSharp\Console\SAYISALLOTO\obj\Debug\net6.0\SAYISALLOTO.AssemblyInfoInputs.cache
+D:\Dev\CSharp\Console\SAYISALLOTO\obj\Debug\net6.0\SAYISALLOTO.AssemblyInfo.cs
+D:\Dev\CSharp\Console\SAYISALLOTO\obj\Debug\net6.0\SAYISALLOTO.csproj.CoreCompileInputs.cache
+D:\Dev\CSharp\Console\SAYISALLOTO\obj\Debug\net6.0\SAYISALLOTO.dll
+D:\Dev\CSharp\Console\SAYISALLOTO\obj\Debug\net6.0\refint\SAYISALLOTO.dll
+D:\Dev\CSharp\Console\SAYISALLOTO\obj\Debug\net6.0\SAYISALLOTO.pdb
+D:\Dev\CSharp\Console\SAYISALLOTO\obj\Debug\net6.0\SAYISALLOTO.genruntimeconfig.cache
+D:\Dev\CSharp\Console\SAYISALLOTO\obj\Debug\net6.0\ref\SAYISALLOTO.dll
