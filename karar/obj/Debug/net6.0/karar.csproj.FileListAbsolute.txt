@@ -1,0 +1,15 @@
+E:\melih bilişim 11\CSharp\Console\karar\obj\Debug\net6.0\karar.csproj.AssemblyReference.cache
+E:\melih bilişim 11\CSharp\Console\karar\obj\Debug\net6.0\karar.GeneratedMSBuildEditorConfig.editorconfig
+E:\melih bilişim 11\CSharp\Console\karar\obj\Debug\net6.0\karar.AssemblyInfoInputs.cache
+E:\melih bilişim 11\CSharp\Console\karar\obj\Debug\net6.0\karar.AssemblyInfo.cs
+E:\melih bilişim 11\CSharp\Console\karar\obj\Debug\net6.0\karar.csproj.CoreCompileInputs.cache
+E:\melih bilişim 11\CSharp\Console\karar\bin\Debug\net6.0\karar.exe
+E:\melih bilişim 11\CSharp\Console\karar\bin\Debug\net6.0\karar.deps.json
+E:\melih bilişim 11\CSharp\Console\karar\bin\Debug\net6.0\karar.runtimeconfig.json
+E:\melih bilişim 11\CSharp\Console\karar\bin\Debug\net6.0\karar.dll
+E:\melih bilişim 11\CSharp\Console\karar\bin\Debug\net6.0\karar.pdb
+E:\melih bilişim 11\CSharp\Console\karar\obj\Debug\net6.0\karar.dll
+E:\melih bilişim 11\CSharp\Console\karar\obj\Debug\net6.0\refint\karar.dll
+E:\melih bilişim 11\CSharp\Console\karar\obj\Debug\net6.0\karar.pdb
+E:\melih bilişim 11\CSharp\Console\karar\obj\Debug\net6.0\karar.genruntimeconfig.cache
+E:\melih bilişim 11\CSharp\Console\karar\obj\Debug\net6.0\ref\karar.dll
